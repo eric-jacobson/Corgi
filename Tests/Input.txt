@@ -1,0 +1,10 @@
+main()
+
+def main()
+
+"enter a number: "
+x = input()
+print(x)
+
+return 0
+end
